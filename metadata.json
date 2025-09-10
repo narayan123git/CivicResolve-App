@@ -1,0 +1,5 @@
+{
+  "name": "CivicResolve AI",
+  "description": "An AI-powered platform for citizens to report civic issues and for local governments to track, manage, and resolve them efficiently. It features AI-driven issue categorization, priority assessment, and an administrative dashboard with analytics.",
+  "requestFramePermissions": []
+}
